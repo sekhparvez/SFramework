@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12285" started-at="2018-12-29T00:18:02Z" finished-at="2018-12-29T00:18:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12285" started-at="2018-12-29T00:18:02Z" finished-at="2018-12-29T00:18:14Z">
+      <class name="testFB.TC_Loginwithinvalidcred">
+        <test-method status="PASS" signature="beforeteststarts()[pri:0, instance:testFB.TC_Loginwithinvalidcred@cb5822]" name="beforeteststarts" is-config="true" duration-ms="6008" started-at="2018-12-29T00:18:02Z" finished-at="2018-12-29T00:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeteststarts -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:testFB.TC_Loginwithinvalidcred@cb5822]" name="logintest" duration-ms="6253" started-at="2018-12-29T00:18:08Z" finished-at="2018-12-29T00:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- testFB.TC_Loginwithinvalidcred -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
